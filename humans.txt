@@ -1,0 +1,10 @@
+/* TEAM */
+Title: Sanna Gustafsson
+Site: sg222ws@student.lnu.se
+Location: Stockholm, Sweden
+
+/* SITE */
+Last updated: 2019/03/20
+Standards: HTML5, CSS
+Components: Jekyll, Sass
+Software: Visual Studio Code
